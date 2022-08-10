@@ -1,7 +1,7 @@
-<Project Version="2" Name="LOVVeVFRProject" FolderName="Packages">
+<Project Version="2" Name="LIVFRProject" FolderName="Packages">
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
-		<Package>PackageDefinitions\morpheusxaut-lovvevfr.xml</Package>
+		<Package>PackageDefinitions\fregisita-livfr.xml</Package>
 	</Packages>
 </Project>

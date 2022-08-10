@@ -1,16 +1,16 @@
-<AssetPackage Name="morpheusxaut-lovvevfr" Version="1.1.0">
+<AssetPackage Name="fregisita-livfr" Version="1.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
-		<Title>LOVVe VFR Reporting Points</Title>
+		<Title>Italy VFR Reporting Points</Title>
 		<Manufacturer/>
-		<Creator>Nick Mueller</Creator>
+		<Creator>Fabio Regis</Creator>
 	</ItemSettings>
 	<Flags>
 		<VisibleInStore>false</VisibleInStore>
 		<CanBeReferenced>false</CanBeReferenced>
 	</Flags>
 	<AssetGroups>
-		<AssetGroup Name="lovvevfr">
+		<AssetGroup Name="livfr">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
